@@ -101,5 +101,10 @@ The project generates:
 * Cloud-based monitoring systems
 * Advanced wireless network optimization
 
+👥 Project Team
 
-MATLAB | Signal Processing | Communication Systems Enthusiast
+This project was developed as a team project by:
+SRI VIDHYA B
+SRI AMIRTHA VARSHINI S V
+SHRUTHI R
+SHAHIN ASHIKA K
