@@ -1,0 +1,2 @@
+# ADAPTIVE-DIGITAL-CALIBRATION-FRAMEWORK-FOR-MMWAVE-SYSTEMS-USING-LEAST-SQUARES-ESTIMATION
+Adaptive Digital Calibration Framework for mmWave Systems Using Least Squares Estimation is a MATLAB-based project that improves mmWave communication accuracy by reducing calibration errors using Least Squares Estimation techniques. The framework enhances signal quality, system stability, and wireless communication performance.
